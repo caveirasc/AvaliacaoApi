@@ -3,7 +3,7 @@ import './styles.css'
 export default function Footer() {
     return (
         <footer>
-            &copy; 2024 - The Cat API
+            &copy; 2024 - João Vitor
         </footer>
     )
 }
